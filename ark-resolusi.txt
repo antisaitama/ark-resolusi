@@ -1,4 +1,6 @@
 ARK RESOLUSI
 - Konsisten belajar programming
-- Membuat responsive website
+- Menguasai responsive web design
 - Menguasai framework javascript
+- Mendapatkan pekerjaan yang berhubungan dengan teknologi
+- Menginstall Linux
