@@ -1,0 +1,4 @@
+ARK RESOLUSI
+- Konsisten belajar programming
+- Membuat responsive website
+- Menguasai framework javascript
