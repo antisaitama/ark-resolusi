@@ -1,0 +1,5 @@
+RENCANA BELAJAR ARK
+
+- JavaScript
+- Python
+- Rust
