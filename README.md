@@ -1,2 +1,2 @@
 # ark-resolusi
-Resolusi ditahun 2020
+Repository untuk menyimpan rencana ark kedepannya
