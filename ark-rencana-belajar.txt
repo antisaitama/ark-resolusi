@@ -3,5 +3,6 @@ RENCANA BELAJAR ARK
 - JavaScript
   * ES6
   * Framework JavaScript
+- Struktur Data Dasar
 - Python
 - Rust
