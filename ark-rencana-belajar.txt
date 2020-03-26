@@ -1,5 +1,7 @@
 RENCANA BELAJAR ARK
 
 - JavaScript
+  * ES6
+  * Framework JavaScript
 - Python
 - Rust
