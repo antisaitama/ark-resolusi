@@ -6,3 +6,6 @@ RENCANA BELAJAR ARK
 - Struktur Data Dasar
 - Python
 - Rust
+- Java
+  * OOP
+  * List
