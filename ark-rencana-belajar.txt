@@ -9,3 +9,6 @@ RENCANA BELAJAR ARK
 - Java
   * OOP
   * List
+- Mathematics
+  * Calculus
+  * Linear Algebra
