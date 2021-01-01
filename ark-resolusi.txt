@@ -5,3 +5,4 @@ ARK RESOLUSI
 - Membeli laptop baru
 - Mempelajari Bahasa Inggris setiap hari
 - Mempelajari bahasa Jepang setiap malam
+- Menyelesaika course CS50 (Computer Science) di edX
