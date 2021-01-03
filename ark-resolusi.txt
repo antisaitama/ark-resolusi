@@ -6,3 +6,4 @@ ARK RESOLUSI
 - Mempelajari Bahasa Inggris setiap hari
 - Mempelajari bahasa Jepang setiap malam
 - Menyelesaikan course CS50 (Computer Science) di edX
+- Menguasai linear algebra
