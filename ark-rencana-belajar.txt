@@ -12,3 +12,4 @@ RENCANA BELAJAR ARK
 - Mathematics
   * Calculus
   * Linear Algebra
+  * Trigonometry
