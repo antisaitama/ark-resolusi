@@ -10,6 +10,7 @@ RENCANA BELAJAR ARK
   * OOP
   * List
 - Mathematics
+  * Dicrete Mathematics
   * Calculus
   * Linear Algebra
   * Trigonometry
